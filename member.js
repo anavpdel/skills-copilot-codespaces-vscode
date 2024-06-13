@@ -1,4 +1,4 @@
-function skillsmember() {
+function skillsMember() {
     return [
         { name: 'HTML', value: 90 },
         { name: 'CSS', value: 80 },
